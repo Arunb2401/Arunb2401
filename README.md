@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Biradar</h1>
-<p align="center"> <img src= "https://files.codingninjas.com/mascot-9644-9850.png" alt="Image"/> </p>
+<p align="center"> <img src= "[https://files.codingninjas.com/mascot-9644-9850.png](https://www.istockphoto.com/vector/cloud-computing-concept-abstract-connection-technology-background-hand-drawn-vector-gm1952381052-557271187)" alt="Image"/> </p>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunb2401&label=Profile%20views&color=0e75b6&style=flat" alt="arunb2401" /> </p>
