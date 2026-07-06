@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunb2401" alt="arunb2401" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA,AngularJS**
+- 🌱 I’m currently working in  **JAVA,Springboot,Microservices,MySQL,System Design**
 
-- 💬 Ask me about **JAVA,HTML,CSS,JS,MySQL.**
+- 💬 Ask me about **JAVA,HTML,CSS,JS,MySQL,Springboot,Microservices**
 
 - 📫 How to reach me **arunbiradar24@gmail.com**
 
